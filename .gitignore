@@ -10,7 +10,6 @@
 *.iml
 *.DS_Store
 /build/
-/bin/
 *node_modules
 log/
 .env
