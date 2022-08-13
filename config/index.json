@@ -1,0 +1,12 @@
+{
+  "logPath": "log",
+  "logModel": "info",
+  "targetName": "xxxx",
+  "targetNickName": "xxxx",
+  "sweetName": "宝贝",
+  "fromName": "傻瓜",
+  "memorialDay": "2021/10/01",
+  "targetCity": "广州",
+  "scheduleTime": "00 00 08 * * *",
+  "txApiKey": "xxxxx"
+}
