@@ -37,8 +37,8 @@
 **node版本>=16**
 
 1. `git clone` 源码地址
-2. `npm install` //安装依赖
-3. `npm run start` //本地运行
+2. 安装依赖:`npm install` 
+3. 本地运行:`npm run start`
 
 ### 4.程序运行日志
 
@@ -89,5 +89,5 @@ Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
 每日土味情话：
 你的容颜应该申请吉尼斯纪录。
 
-——爱你的傻瓜
+——爱你的xx
 ```
